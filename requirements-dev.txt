@@ -1,0 +1,4 @@
+# Install the application and its runtime dependencies for subprocess tests.
+.
+coverage==7.17.0
+pycodestyle==2.15.0
